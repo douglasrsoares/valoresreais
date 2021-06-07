@@ -43,7 +43,7 @@
     "rucksack-css": "^1.0.2",
     "parker": "0.0.10",
     "rupture": "^0.7.1",
-    "harp": "^0.29.0"
+    "harp": "^0.40.3"
   },
   "husky": {
     "hooks": {
